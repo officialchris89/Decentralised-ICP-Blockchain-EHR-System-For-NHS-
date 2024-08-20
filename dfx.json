@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "ehr-system-backend": {
+      "main": "src/ehr-system-backend/main.mo",
+      "type": "motoko"
+    },
+    "ehr-system-frontend": {
+      "dependencies": [
+        "ehr-system-backend"
+      ],
+      "source": [
+        "src/ehr-system-frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "ehr-system-frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}

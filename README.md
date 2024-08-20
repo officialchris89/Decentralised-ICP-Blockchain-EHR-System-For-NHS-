@@ -1,4 +1,4 @@
-# ICP-Blockchain-EHR-System-NHS
+# Decentralised-ICP-Blockchain-NHS-EHR-System
 
 ## Project Overview
 

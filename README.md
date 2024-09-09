@@ -1,8 +1,8 @@
-# Decentralised-ICP-Blockchain-NHS-EHR-System
+# Secure, Interoperable and Decentralised Electronic Health Record System for NHS: Leveraging ICP Blockchain Technology.
 
 ## Project Overview
 
-This project aimed to leverage DFINITY's Internet Computer Protocol (ICP) to develop a secure, interoperable, and decentralised Electronic Health Record (EHR) system for the National Health Service (NHS) in the UK. Our goal is to address critical challenges in the current NHS EHR ecosystem, including data fragmentation, security concerns, and lack of interoperability.
+This project aimed to leverage DFINITY's Internet Computer Protocol (ICP) to develop a secure, interoperable, and decentralised Electronic Health Record (EHR) system for the National Health Service (NHS) in the UK. The goal is to address critical challenges in the current EHR system within the NHS ecosystem, including decentralisation issues, data fragmentation, security concerns, and lack of interoperability.
 
 ## Key Features
 
@@ -13,7 +13,7 @@ This project aimed to leverage DFINITY's Internet Computer Protocol (ICP) to dev
 
 ## Project Initiative
 
-This project was developed and submitted to the University Of Bolton, United Kingdom as part of a research initiative in Partial fulfilment for the Award of MSc Degree in Software Engineering.
+This project was developed and submitted to the University of Bolton, United Kingdom as part of a research initiative in Partial fulfilment for the Award of MSc Degree in Software Engineering.
 
 ## Objectives
 
